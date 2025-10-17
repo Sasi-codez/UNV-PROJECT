@@ -2,4 +2,8 @@
                                  |
 [Leveraging NLP Techniques we need to Extract Entities,relationships,properties]
                                  |
-[]
+[Need to store data within the Neo4j database and Display abstarct Data to the user]
+                                 |
+[Provide option for Querying the database and Use google-generativeai for writing Cypher Queries Specific to user Queries]
+                                 |
+[Display Result in Text Response or Graph Visualization (optional)]
