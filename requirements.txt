@@ -5,4 +5,7 @@ nlp
 google-generativeai
 pandas
 spacy
+langchain 
+langchain-community 
+pypdf
 #python -m spacy download en_core_web_sm
